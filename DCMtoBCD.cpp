@@ -30,4 +30,5 @@ int main(){
 		cout << n;
 		bcd.pop();
 	}
+	return 0;
 }	
