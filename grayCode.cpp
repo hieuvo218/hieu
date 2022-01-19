@@ -28,4 +28,5 @@ int main(){
 		ordinal_number++;
 		n--;
 	}
+	return 0;
 }
